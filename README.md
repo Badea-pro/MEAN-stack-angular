@@ -2,6 +2,8 @@ MEAN stack Login page
 
 This project has been created by Badea khabloos
 
+Mpve the 'src' file into the frontend
+
 To start the app
 
 First open the terminal 
